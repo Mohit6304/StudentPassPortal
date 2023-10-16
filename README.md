@@ -1,6 +1,3 @@
-Certainly! Here's an example of a README file for your application. You can customize it with your specific project details and usage instructions:
-
----
 
 # StudentPassPro - Student Bus Pass Management
 
