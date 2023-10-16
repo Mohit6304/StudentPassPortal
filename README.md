@@ -12,7 +12,7 @@ StudentPassPro is a web application designed to simplify the management of stude
 - [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+- [About Me](#about-me)
 
 ## Features
 
@@ -90,3 +90,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and test them.
 4. Submit a pull request with a detailed description of your changes.
+
+## About Me
+
+I am [N.Mohit], the creator and developer of StudentPassPro. I am passionate about simplifying student transportation and providing efficient solutions to everyday problems. This project was born out of a desire to help students navigate their daily commutes more smoothly and conveniently.
+
+If you have any questions, suggestions, or would like to contribute to this project, feel free to contact me:
+
+- **Email:** [nmsk3219@gmail.com](mailto:nmsk3219@gmail.com)
+- **GitHub:** [Mohit6304](https://github.com/Mohit6304)
+
+I hope you find StudentPassPro useful and welcome any feedback to improve it further. Thank you for using this application!
