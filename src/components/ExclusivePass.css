@@ -1,0 +1,23 @@
+/* src/components/ExclusivePass.css */
+.exclusive-pass-container {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .pass-details {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+  }
+  
+  .pass-details p {
+    margin: 10px 0;
+  }
+  
+  .pass-details strong {
+    font-weight: bold;
+  }
+  
