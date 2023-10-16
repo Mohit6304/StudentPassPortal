@@ -1,0 +1,36 @@
+.about-me-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 16px;
+  }
+  
+  .content-container h2 {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .content-container p {
+    margin-bottom: 10px;
+  }
+  
+  .content-container strong {
+    font-weight: bold;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  

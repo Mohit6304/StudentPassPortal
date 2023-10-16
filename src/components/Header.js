@@ -1,4 +1,3 @@
-// src/components/Header.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -29,6 +28,9 @@ function Header() {
             </li>
             <li className="nav-item">
               <Link to="/general-pass" className="nav-link">General Pass</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/aboutme" className="nav-link">About Me</Link>
             </li>
           </ul>
         </div>
