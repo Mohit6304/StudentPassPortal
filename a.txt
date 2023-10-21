@@ -1,0 +1,30 @@
+student-pass-pro/
+├── node_modules/               
+├── public/
+│   ├── favicon.ico            (your app's favicon)
+│   ├── index.html             (main HTML template)
+├── src/
+│   ├── components/
+│   │   ├── Apply.js           (component for applying for a bus pass)
+│   │   ├── Apply.css          (styles specific to Apply)
+│   │   ├── ExclusivePass.js   (component for exclusive bus pass)
+│   │   ├── ExclusivePass.css  (styles specific to ExclusivePass)
+│   │   ├── GeneralPass.js     (component for general bus pass)
+│   │   ├── GeneralPass.css    (styles specific to GeneralPass)
+│   │   ├── Footer.js          (footer component)
+│   │   ├── Footer.css         (styles specific to Footer)
+│   │   ├── Header.js          (header component)
+│   │   ├── Home.js            (home page component)
+│   │   ├── Home.css           (styles specific to Home)
+│   │   ├── Modify.js          (component for modifying pass details)
+│   │   ├── Modify.css         (styles specific to Modify)
+│   │   ├── Renew.js           (component for renewing a pass)
+│   │   ├── Renew.css          (styles specific to Renew)
+│   │   └── AboutMe.js         (component for an "About Me" section)
+│   ├── App.js                 (main application component)
+│   ├── App.css                (styles specific to App.js)
+│   ├── index.js               (entry point for your app)
+│   └── README.md              (documentation for your project)
+├── .gitignore                (specify files and directories to be ignored by Git)
+├── package.json              (list of project dependencies and scripts)
+└── README.md                 (documentation for your project)
